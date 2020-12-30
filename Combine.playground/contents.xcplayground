@@ -3,5 +3,6 @@
     <pages>
         <page name='Home'/>
         <page name='Prefix'/>
+        <page name='CombineLatest'/>
     </pages>
 </playground>
